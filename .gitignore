@@ -1,3 +1,5 @@
 mods/
 config/
 PortableGit/
+update.ps1
+update.sh
