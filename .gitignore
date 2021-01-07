@@ -8,11 +8,13 @@
 /resourcepacks
 /XaeroWaypoints
 /XaeroWaypoints*
+/resources
 options.txt
 servers.dat
 /schematics
 /PortableGit
 /bin
 /saves
+
 !/bin/modpack.jar
 
