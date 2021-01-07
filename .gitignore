@@ -12,5 +12,6 @@ options.txt
 servers.dat
 /schematics
 /PortableGit
-
+/bin
+!/bin/modpack.jar
 
