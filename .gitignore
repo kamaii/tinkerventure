@@ -13,5 +13,6 @@ servers.dat
 /schematics
 /PortableGit
 /bin
+/saves
 !/bin/modpack.jar
 
