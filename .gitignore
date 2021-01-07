@@ -15,6 +15,7 @@ servers.dat
 /PortableGit
 /bin
 /saves
-
+usercache.json
+usernamecache.json
 !/bin/modpack.jar
 
