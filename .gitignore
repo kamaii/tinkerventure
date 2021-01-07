@@ -1,6 +1,9 @@
 *
-!/packmenu
 !.gitignore
+
+!/bin
+!/bin/*
+!/packmenu
+!/packmenu/*
 !update.ps1
 !update.sh
-!bin
