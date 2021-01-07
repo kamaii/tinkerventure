@@ -1,9 +1,15 @@
-*
-!.gitignore
+/.mixin.out
+/cache
+/config
+/defaultconfigs
+/coremods
+/mods
+/logs
+/resourcepacks
+/XaeroWaypoints
+/XaeroWaypoints*
+options.txt
+servers.dat
+/schematics
+/PortableGit
 
-!/bin
-!/bin/*
-!/packmenu
-!/packmenu/*
-!update.ps1
-!update.sh
