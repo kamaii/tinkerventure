@@ -1,6 +1,6 @@
-mods/
-config/
-PortableGit/
-update.ps1
-update.sh
-*.log
+*
+!/packmenu
+!.gitignore
+!update.ps1
+!update.sh
+!bin
